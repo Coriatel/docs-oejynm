@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-hnexrs.introduse.me/sitemap.xml
